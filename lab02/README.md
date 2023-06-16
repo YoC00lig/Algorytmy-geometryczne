@@ -2,7 +2,7 @@
 
 <p> The exercise involved implementing the Graham and Jarvis algorithms for computing convex hulls. Then, it was necessary to test their performance on different datasets and measure their execution time. </p>
 <p> The algorithms for computing convex hulls were the topic of my semester project on Geometric Algorithms course. 
-   For more implemented convex-hull-search algorithms and further information, you can explore <a href="https://github.com/YoC00lig/Convex-Hull">this repository</a>. </p>
+   For more implemented convex-hull-search algorithms, visualizations and further information, you can explore <a href="https://github.com/YoC00lig/Convex-Hull">this repository</a>. </p>
 
 # 🔶 Results for example dataset 🔶
 
