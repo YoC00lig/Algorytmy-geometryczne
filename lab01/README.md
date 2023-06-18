@@ -1,7 +1,7 @@
 # 🔶 The objective of the exercise 🔶
 <p>The exercise consists of comparing and contrasting the results of classifying the position of points relative to a line segment, depending on the calculation precision, zero tolerance, and the method used to calculate the determinant. </p>
 
-<p>The task was accomplished by employing a function that assesses the determinant and categorizes points based on their position relative to the line. This process was repeated for every set of points, employing each of the four determinant calculation methods and various selected zero tolerances. </p>
+<p>The task was accomplished by implementing a function that assesses the determinant and categorizes points based on their position relative to the line. This process was repeated for every set of points, using each of the four determinant calculation methods and various selected zero tolerances. </p>
 
 # 🔶 Results for example dataset 🔶
 
